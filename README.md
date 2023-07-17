@@ -1,12 +1,9 @@
 # REST-API
-<p>add&remove </p>
-
-<https://ibb.co/gyPF9Qm> </br>
+# add&remove - 
+<https://ibb.co/gyPF9Qm>
   
-<p>get</p>
+# get
+<https://ibb.co/1X08yR8>  </br>
 
-<https://ibb.co/1X08yR8> </br>
-
-<p>list</p>
-
+# list
 <https://ibb.co/9sL1MVR>
