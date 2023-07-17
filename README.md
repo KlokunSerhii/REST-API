@@ -1,9 +1,9 @@
-# REST-API
-# add&remove - 
+
+# Add & Remove - 
 <https://ibb.co/gyPF9Qm>
   
-# get
+# Get
 <https://ibb.co/1X08yR8>  </br>
 
-# list
+# List
 <https://ibb.co/9sL1MVR>
